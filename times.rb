@@ -2,9 +2,9 @@
 
 def using_times
 	syllables = 0
-	5.times do
-	  print "Yo "
-	  syllables += 5
+	7.times do
+	  print "Wingardium Leviosa"
+	  syllables += 1
 	  print syllables
 	end
 end
