@@ -1,4 +1,4 @@
-syllables = 0
+#syllables = 0
 
 def using_times
 	syllables = 0
