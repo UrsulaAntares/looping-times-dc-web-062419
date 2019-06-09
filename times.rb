@@ -2,7 +2,8 @@ syllables = 0
 
 def using_times
 	5.times do
-	  print "Yo"
+	  print "Yo "
+	  syllables +=5
 	end
 end
 
