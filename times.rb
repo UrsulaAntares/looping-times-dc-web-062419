@@ -4,8 +4,6 @@ def using_times
 	syllables = 0
 	7.times do
 	  puts "Wingardium Leviosa"
-	  syllables += 1
-	  print syllables
 	end
 end
 
